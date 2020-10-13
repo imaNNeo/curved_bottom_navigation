@@ -2,7 +2,12 @@
 
 [![pub package](https://img.shields.io/pub/v/curved_bottom_navigation.svg)](https://pub.dartlang.org/packages/curved_bottom_navigation)
 
+<<<<<<< Updated upstream
 <img src="https://github.com/imaNNeoFighT/curved_bottom_navigation/raw/master/repo_files/images/curved_bottom_navigation.gif" width="300">
+=======
+<img src="https://github.com/imaNNeoFighT/curved_bottom_navigation/raw/master/repo_files/uplabs_demo.gif" width="300">
+
+>>>>>>> Stashed changes
 
 This is implementation of an artwork in [Uplabs](https://www.uplabs.com/posts/gaming-app-design-fdb8a2ac-0f96-418a-826e-361d55e11f4f)
 
