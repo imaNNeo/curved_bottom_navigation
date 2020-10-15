@@ -4,6 +4,8 @@
 
 <img src="https://github.com/imaNNeoFighT/curved_bottom_navigation/raw/master/repo_files/curved_bottom_navigation.gif" width="300">
 
+This library has implemented in a [Flutter4Fun](http://flutter4fun.com) [blog post](https://flutter4fun.com/ui-challenge-2-game-app-design-by-nevil-suresh/).
+
 This is implementation of an artwork in [Uplabs](https://www.uplabs.com/posts/gaming-app-design-fdb8a2ac-0f96-418a-826e-361d55e11f4f)
 
 
@@ -15,7 +17,7 @@ This is implementation of an artwork in [Uplabs](https://www.uplabs.com/posts/ga
 
 ```kotlin
 dependencies:
-  curved_bottom_navigation: ^1.0.0
+  curved_bottom_navigation: ^1.0.0+1
 ```
 
 ## 2 - Install it
