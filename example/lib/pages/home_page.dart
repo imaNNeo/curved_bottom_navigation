@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
         title: Text('Sweet Home'),
       ),
       body: GridView.builder(
-        itemCount: 20,
+        itemCount: 8,
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2),
         padding: EdgeInsets.only(
           left: 8,
